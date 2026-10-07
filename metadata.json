@@ -1,0 +1,6 @@
+{
+  "name": "المترجم العراقي",
+  "description": "تطبيق المترجم العراقي الذكي لترجمة جميع اللغات واللهجة العراقية بالذكاء الاصطناعي مع سجل الترجمات وقسم المطور أحمد تاشكن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
